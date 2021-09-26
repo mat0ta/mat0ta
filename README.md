@@ -1,5 +1,5 @@
 <h1 align='center'>mat0ta</h1>
- ---
+---
 
 <!--
 **mat0ta/mat0ta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
