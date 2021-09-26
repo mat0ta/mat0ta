@@ -7,6 +7,6 @@
 
 ---
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mat0ta&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mat0ta&layout=compact&show_icons=true&theme=onedark)
 
 ---
