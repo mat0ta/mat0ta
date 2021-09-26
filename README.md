@@ -3,7 +3,7 @@
 
 ---
 
-![](https://github-readme-stats.vercel.app/api?username=mat0ta&show_icons=true&theme=cobalt)
+![](https://github-readme-stats.vercel.app/api?username=mat0ta&show_icons=true&theme=onedark)
 
 ---
 
