@@ -3,4 +3,4 @@
 
 ---
 
-[![mat0ta's GitHub stats](https://github-readme-stats.vercel.app/api?username=mat0ta)
+![mat0ta's GitHub stats](https://github-readme-stats.vercel.app/api?username=mat0ta)
