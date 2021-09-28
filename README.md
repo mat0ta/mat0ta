@@ -11,4 +11,4 @@
 
 ---
 
-![](https://komarev.com/ghpvc/?username=mat0ta&color=131313)
+![](https://komarev.com/ghpvc/?username=mat0ta&color=grey)
