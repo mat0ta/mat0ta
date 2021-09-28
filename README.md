@@ -11,4 +11,4 @@
 
 ---
 
-<div align='center' src="![](https://komarev.com/ghpvc/?username=mat0ta&color=grey)"></div>
+<div align='center' src="https://komarev.com/ghpvc/?username=mat0ta&color=grey"></div>
