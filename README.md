@@ -1,5 +1,5 @@
 <h1 align='center'>mat0ta</h1>
-<h5 align='left'>Howdy comrade 👋 My name is Matota and I've been here not for that long, but I like it here. Just getting used to this.</h5>
+<h5 align='left'>Howdy comrade 👋</h5>
 
 ---
 
